@@ -1031,4 +1031,8 @@
   </project>
 
   <include name="snippets/lineage.xml" />
+  <include name="snippets/oplus-common.xml" />
+  <include name="snippets/macan.xml" />
+  <include name="snippets/macanc.xml" />
+  <include name="snippets/infiniti.xml" />
 </manifest>
