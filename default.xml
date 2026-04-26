@@ -1030,6 +1030,7 @@
     <copyfile src="lk_inc.mk" dest="lk_inc.mk" />
   </project>
 
+  <include name="snippets/fairlady.xml" />
   <include name="snippets/lineage.xml" />
   <include name="snippets/oplus-common.xml" />
   <include name="snippets/macan.xml" />
