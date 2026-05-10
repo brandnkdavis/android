@@ -14,7 +14,7 @@ Then to sync up:
 ```
 repo sync
 ```
-# Build LineageOS on OnePlus 15 / 15R / Ace 6T
+# Build LineageOS on OnePlus 15
 
 # Set up environment
 ```bash
@@ -23,7 +23,7 @@ repo sync
 
 # Build the code
 ```bash
-brunch <codename>
+brunch infiniti
 ```
 
 Submitting patches
